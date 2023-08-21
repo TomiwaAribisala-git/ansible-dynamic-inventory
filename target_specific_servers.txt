@@ -2,6 +2,7 @@ keyed_groups:
  - key: tags
  - prefix: "tag"
 
+
 filters:
  tag:Name: server-1
  tag:Name: server-2

@@ -2,8 +2,6 @@
 plugin: aws_ec2
 regions:
  - eu-north-1
-filters:
- tag:Name: server-1
 
 # install python >= 3.6 locally
 # boto3 >= 1.22.0 locally
